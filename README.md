@@ -11,6 +11,10 @@
 * Search through the channel/chat.
 * Download media files through browser/download managers.
 
+## Quick Deploy
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/chintan992/telegram-index/tree/master)
+
 ## Demo
 
 Hosted demo site: https://tg-index-demo.herokuapp.com
