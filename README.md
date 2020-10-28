@@ -13,7 +13,7 @@
 
 ## Quick Deploy
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/chintan992/telegram-index/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/chintan992/telegram-index/tree/main)
 
 ## Demo
 
